@@ -1,0 +1,482 @@
+[
+  {
+    "ld_id"     : 0,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 0,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 0,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 0,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 0,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 0,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 0,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 0,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 0,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 0,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 1,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 1,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 1,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 1,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 1,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 1,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 1,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 1,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 1,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 1,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 2,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 2,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 2,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 2,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 2,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 2,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 2,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 2,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 2,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 2,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 3,
+    "name"      : "Kajaki Milicz - Wypożyczalnia kajaków nad doliną Baryczy",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 3,
+    "name"      : "Kajaczki.com",
+    "single"    : 55,
+    "double"    : 65,
+    "address"   : "Krępsko 50x, 64-930 Krępsko",
+    "telephone" : "+48 790 220 914"
+  },
+  {
+    "ld_id"     : 3,
+    "name"      : "drawa.com.pl - spływy kajakowe Drawą",
+    "single"    : 35,
+    "double"    : 45,
+    "address"   : "Zatom 11 73-220 Drawno",
+    "telephone" : "+48 691 136 574"
+  },
+  {
+    "ld_id"     : 3,
+    "name"      : "Bajokajaki",
+    "single"    : 30,
+    "double"    : 35,
+    "address"   : "ul. Brzuchalskiego 28, 77-400 Złotów",
+    "telephone" : "+48 510 896 380"
+  },
+  {
+    "ld_id"     : 3,
+    "name"      : "Wypożyczalnia kajaków KOTWICA",
+    "single"    : 40,
+    "double"    : 40,
+    "address"   : "Mężyk 32",
+    "telephone" : "+48 669 553 919"
+  },
+  {
+    "ld_id"     : 3,
+    "name"      : "Wypożyczalnia kajaków - spływy kajakowe Poznań",
+    "single"    : 100,
+    "double"    : 100,
+    "address"   : "ul. Starołęcka 312A, 61-341 Poznań",
+    "telephone" : "+48 728 335 270"
+  },
+  {
+    "ld_id"     : 3,
+    "name"      : "Kajaki2.pl spływy kajakowe",
+    "single"    : 65,
+    "double"    : 65,
+    "address"   : "Głogowa 60, 62-050 Mosina",
+    "telephone" : "+48 790 819 888"
+  },
+  {
+    "ld_id"     : 3,
+    "name"      : "Kajaki Rogalinek",
+    "single"    : 65,
+    "double"    : 65,
+    "address"   : "Ogrodowa 6, 62-022 Rogalinek",
+    "telephone" : "+48 602 159 103 "
+  },
+  {
+    "ld_id"     : 3,
+    "name"      : "Kajaki Dudek",
+    "single"    : 70,
+    "double"    : 70,
+    "address"   : "ul. Długa 61, 62-022 Radzewice",
+    "telephone" : "+48 663 582 244"
+  },
+  {
+    "ld_id"     : 3,
+    "name"      : "kajakiempowelnie.pl",
+    "single"    : 70,
+    "double"    : 70,
+    "address"   : "Włókna 21, 62-085 Potrzanowo",
+    "telephone" : "+48 663 846 050"
+  },
+  {
+    "ld_id"     : 4,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 4,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 4,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 4,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 4,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 4,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 4,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 4,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 4,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 4,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 5,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 5,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 5,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 5,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 5,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 5,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 5,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 5,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 5,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  },
+  {
+    "ld_id"     : 5,
+    "name"      : "abc",
+    "single"    : 60,
+    "double"    : 70,
+    "address"   : "Krotoszyńska 24, 56-300 Milicz",
+    "telephone" : "+ 48 792 308 308"
+  }
+]

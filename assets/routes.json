@@ -1,0 +1,602 @@
+[
+  {
+    "ld_id" : 0,
+    "name"  : "abc",
+    "dist"  : 23.5,
+    "diff"  : "łatwa",
+    "image" : "link",
+    "desc"  : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 0,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 0,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 0,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 0,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 0,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 0,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 0,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 0,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 0,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 1,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 1,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 1,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 1,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 1,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 1,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 1,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 1,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 1,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 1,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 2,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 2,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 2,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 2,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 2,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 2,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 2,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 2,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 2,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 2,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 3,
+    "name" : "Barycz",
+    "dist" : 41,
+    "diff" : "łatwa",
+    "image" : "barycz_foreground",
+    "desc" : "Przygodzice, start i wodowanie kajaków przy moście drogowym na trasie Ostrów Wielkopolski–Kępno (droga nr 43). Przy bardzo niskim stanie wody płynięcie będzie nieco utrudnione. Etap można zakończyć po 10 km, w Odolanowie przy moście drogowym (droga nr 444). Z Odolanowa natomiast można spokojnie spłynąć 10 km do mostu na drodze Bartniki–Wróbliniec. Po ok. 200 m za mostem na drodze jest jaz, tam można zakończyć spływ lub po krótkiej przenosce płynąć kolejne 6 km, do następnego miejsca wodowania kajaków przy moście na drodze z Potaszni do Gądkowic. To już województwo dolnośląskie. Jeszcze dalej można kontynuować spływ do Milicza i zakończyć w przystani kajakowej przy moście (droga nr 15). Na obszarze województwa wielkopolskiego szlak nadaje się znakomicie na wycieczki jednodniowe. Niestety, nie ma tu zbyt wielu wyznaczonych miejsc do biwakowania. Rzeka Barycz jest idealna do uprawiania turystyki kajakowej zwłaszcza dla rodzin z dziećmi i początkujących kajakarzy.",
+    "lat"   : 51.65,
+    "long"  : 17.8167
+  },
+  {
+    "ld_id" : 3,
+    "name" : "Dobrzyca",
+    "dist" : 64,
+    "diff" : "średnia/trudna",
+    "image" : "dobrzyca_foreground",
+    "desc" : "Szlak kajakowy liczy ok. 60 km. Jego początek to jezioro Machliny, a koniec – stanica Krępsko nad Piławą. Jest dobrze oznakowany i zagospodarowany. Na pokonanie całego szlaku potrzeba 3–4 dni. Dobrzycę określa się czasem jako rzekę o charakterze górskim, jest ona jednak na ogół płytka i spokojna, tylko między Golcami a Ostrowcem zwęża się i przyspiesza nurt. W  tych miejscach brzegi są najwyższe – od kilku do nawet kilkunastu metrów, Fot. Archiwum VEGA Studio Adv. Fot. Archiwum VEGA Studio Adv. 2 SKALA: 1 cm – 5 km a woda głębsza. Tam mogą być potrzebne kajakarskie doświadczenie, siła i refleks. W Ostrowcu i Wiesiółce występują dwa spiętrzenia: pierwsze przy moście, a drugie przy dawnej kuźni zasilanej wodą z rzeki. Dla uatrakcyjnienia spływu można się zatrzymać w zachodniopomorskiej wsi Rudnica i skorzystać z atrakcji parku linowego „Rudnica Park”. To jeden z największych obiektów tego typu w Polsce. Część jego tras biegnie nad samą rzeką. We wsi Tarnowo warto również zajrzeć na Łowisko „Pstrąg” i zjeść smaczną rybę. Blisko swego ujścia Dobrzyca jest zamulona, lecz nie wynika to z zanieczyszczenia, a z bagnistego podłoża wzruszonego wartkim nurtem. Szlak polecany jest raczej doświadczonym kajakarzom z odpowiednimi umiejętnościami technicznymi, ale końcowy 25-kilometrowy odcinek z Ostrowca jest dostępny również dla początkujących oraz rodzin z dziećmi.",
+    "lat"   : 52.1667 ,
+    "long"  : 16.8
+  },
+  {
+    "ld_id" : 3,
+    "name" : "Drawa",
+    "dist" : 25,
+    "diff" : "średnia",
+    "image" : "drawa_foreground",
+    "desc" : "Szlak kajakowy rzeki Drawy zalicza się do najpiękniejszych szlaków wodnych w Polsce. W górnym odcinku rzeka płynie przez szereg malowniczych jezior otoczonych lasami zróżnicowanymi gatunkowo (prastare buki, graby, dęby, jesiony, sosny, świerki). Lasy towarzyszą kajakarzom z małymi przerwami na całej długości środkowego i dolnego biegu rzeki. Ten bardzo ciekawy szlak nosi imię „Księdza Kardynała Karola Wojtyły”, ponieważ późniejszy papież jeszcze jako kardynał kilkakrotnie spływał Drawą. Uciążliwość szlaku można określić jako zróżnicowaną – na niektórych odcinkach jest łatwy, na innych przysparza dużych trudności ze względu na silny nurt, powalone drzewa, bystrza i głazy w korycie. Proponowany odcinek spływu w województwie wielkopolskim to licząca 25 km trasa z miejscowości Stare Osieczno do ujścia rzeki w Bielicach Nowych. Nurt Drawy uspokaja się, choć w dalszym ciągu jest wartki. Rzeka jest już szersza i nie występują niebezpieczne przeszkody. Znakomicie nadaje się na weekendowy wypad rodzinny. ",
+    "lat"   : 51.2333,
+    "long"  : 18.3667
+  },
+  {
+    "ld_id" : 3,
+    "name" : "Kanał Warta–Gopło i jeziora konińskie",
+    "dist" : 32.5,
+    "diff" : "łatwa",
+    "image" : "goplo_foreground",
+    "desc" : "Spływ kajakowy szlakiem kanału Warta–Gopło, o długości 32,5 km, rozpoczynamy nad jeziorem Gopło w Mielnicy Dużej na przystani przy Gminnym Ośrodku Kultury. W ośrodku znajdują się stołówka oraz natryski i toalety, a na przystani jest dostęp do prądu. Szlak jest łatwy, nieuciążliwy, odpowiedni dla początkujących kajakarzy i  rodzin z dziećmi. Trasa przebiega przez kanały przegrodzone śluzami i przepiękne jeziora Ślesińskie i  Mikorzyńskie, z bardzo dobrze rozwiniętą bazą noclegową i  gastronomiczną. Można ją pokonać podczas weekendowej imprezy. Spływ można zakończyć po wypłynięciu na rzekę Wartę i pokonaniu dodatkowo 3 km w Koninie, na lewym brzegu przy bulwarach miejskich.",
+    "lat"   : 52.3667,
+    "long"  : 18.3167
+  },
+  {
+    "ld_id" : 3,
+    "name" : "Gwda",
+    "dist" : 94,
+    "diff" : "łatwa",
+    "image" : "gwda_foreground",
+    "desc" : "Gwda jest prawym dopływem Noteci, do której uchodzi w miejscowości Ujście. Źródła rzeki znajdują się na Pomorzu Zachodnim w jeziorze Wierzchowo, z którego wypływa w jego południowym krańcu.Na terenie województwa wielkopolskiego za miejscowością Lubnica utworzono rezerwat  Dolina Gwdy ciągnący się wzdłuż rzeki aż do osady Prądy koło Lędyczka. Rzeka płynie  przez tereny leśne, bory mieszane, atrakcją są liczne meandry, przełomy oraz malownicze  wąwozy. W borze sosnowym żyją m.in. jelenie, sarny, bobry, wilki i  dziki oraz rzadkie  gatunki ptaków, jak żurawie, czaple czy głuszce. W wodach Gwdy występują różne gatunki  ryb, chociażby pstrągi, lipienie, a nawet bardzo rzadkie głowacice.  Atrakcją szlaku jest też zwalony most w Jastrowiu. Był on częścią powstałej na początku XIX w. trasy kolejowej Jastrowie–Wałcz. W 1945 r. most wysadziły wycofujące się wojska niemieckie, zaś linia kolejowa została później rozebrana przez Armię Radziecką  i wywieziona w głąb ZSRR. Rozbiórka mostu okazała się zbyt skomplikowana technicznie i nie opłacała się.",
+    "lat"   : 53.4167,
+    "long"  : 16.8167
+  },
+  {
+    "ld_id" : 3,
+    "name" : "Ner",
+    "dist" : 30,
+    "diff" : "łatwa",
+    "image" : "ner_foreground",
+    "desc" : "W województwie wielkopolskim szlak kajakowy rzeki Ner ma długość ok. 30 km. Proponowanym miejscem rozpoczęcia wędrówki jest jaz w miejscowości Zimne w  gminie Świnice Warckie. Rzeka płynie w uregulowanym korycie, kilkakrotnie zmieniając kierunek biegu, meandruje i skraca koryto, zbiera wody wielu małych dopływów. Dno doliny, dawniej zabagnione, zwłaszcza w  dolnym odcinku pradolinnym, obecnie jest otoczone głównie łąkami. Przed miejscowością Dąbie rzeka mocniej meandruje, oferując wspaniałe wrażenia kajakarzom. Ze względu na słabo rozwiniętą infrastrukturę turystyczną rzeka polecana jest raczej na jednodniowe wycieczki rodzinne, również dla początkujących kajakarzy. Spływ zakończyć możemy po 20 km w Dąbiu przy stadionie 6 SKALA: 1 cm – 6,5 km 27 sportowym lub kontynuować aż do rzeki Warty, kończąc we wsi Majdany. Pokonamy dodatkowo ok. 15 km. Na całej trasie nie natrafimy na przeszkody utrudniające realizację wodnej przygody. Przed zakończeniem spływu warto zatrzymać się w miejscowości Chełmno nad Nerem i  odwiedzić nazistowski obóz zagłady Żydów, Romów i Polaków – SS-Sonderkommando Kulmhof z okresu II wojny światowej. ",
+    "lat"   : 52.0833,
+    "long"  : 18.8333
+  },
+  {
+    "ld_id" : 3,
+    "name" : "Noteć",
+    "dist" : 120,
+    "diff" : "łatwa",
+    "image" : "notec_foreground",
+    "desc" : "Na terenie województwa wielkopolskiego szlak kajakowy ma długość ok. 120 km. Początek można przyjąć od mostu drogowego na trasie nr 194 z Osieka nad Notecią do Gołańczy, a koniec za ujściem Drawy na prywatnej przystani wodnej we wsi Bielice Nowe koło Krzyża Wielkopolskiego. Rzeka jest łatwa, nieuciążliwa nawet dla początkujących kajakarzy. Nadaje się na spływy indywidualne, rodzinne, a także masowe. Należy jednak zachować ostrożność, bo ze szlaku korzystają również użytkownicy barek i jachtów motorowych. Na trasie znajduje się 12 śluz piętrzących wodę i utrzymujących jej odpowiedni poziom. Na odcinku wielkopolskim zbudowane zostały dobrze wyposażone przy- 30 Szlaki kajakowe w Wielkopolsce stanie i mariny – w Ujściu, Czarnkowie, Wieluniu i Drawsku. Pozwala to na zaplanowanie kilkudniowych wycieczek kajakowych w oparciu o komfortowe warunki biwakowe. ",
+    "lat"   : 52.9,
+    "long"  : 16.5667
+  },
+  {
+    "ld_id" : 3,
+    "name" : "Obra",
+    "dist" : 47,
+    "diff" : "średnia",
+    "image" : "obra_foreground",
+    "desc" : "Na weekendowe spływy szczególnie nadają się odcinki od Krzywinia do Kościana i od Kościana do Przemętu, gdzie można również skorzystać z  uroków Konwaliowego Szlaku Kajakowego. Ciekawe przyrodniczo i krajobrazowo są odcinki: jezioro Rudno–Kopanica, Kopanica–Zbąszyń, Zbąszyń–Trzciel i dalej, już w województwie lubuskim, Trzciel przez Międzyrzecz do Skwierzyny. Natomiast od Kopanicy do Zbąszynia można podziwiać piękno połączonych jezior rynnowych. Na terenie województwa wielkopolskiego Obra jest rzeką o niskiej trudności, znakomicie nadaje się dla początkujących kajakarzy oraz rodzin z dziećmi. Nieźle zagospodarowana, z licznymi gospodarstwami agroturystycznymi i ośrodkami wodnymi, pozwala na zaplanowanie wypraw kajakowych jedno- i wielodniowych dla pojedynczych kajakarzy oraz spływów masowych. Także pod względem krajoznawczym szlak Obry przedstawia bardzo dużą wartość. Na trasie jest bowiem wiele ciekawych miejsc historycznych i zabytków. Tereny te były zamieszkałe przez ludność polską od najdawniejszych czasów. W rzece, jeziorach i na brzegach występuje bogata fauna i flora – obfitość gatunków ryb oraz gniazdującego ptactwa dopełnia atrakcyjność tego terenu.",
+    "lat"   : 52.1,
+    "long"  : 16.6333
+  },
+  {
+    "ld_id" : 3,
+    "name" : "Szlak kajakowy „Puszcza Zielonka”",
+    "dist" : 11.3,
+    "diff" : "średnia",
+    "image" : "zielonka_foreground",
+    "desc" : "Rzeka Struga Wierzeniecka, zwana również Potokiem spod Tuczna, przepływa przez tereny Parku Krajobrazowego Puszczy Zielonki. Ma długość ok. 9 km. Jest prawym dopływem rzeki Głównej. Płynie przez malownicze ziemie gminy Pobiedziska rynną polodowcową wyrzeźbioną na skutek zlodowacenia bałtyckiego. Do rzeki Głównej uchodzi w okolicy miejscowości Nadrożno. Struga Wierzeniecka wypływa z jeziora Tuczno i przepływa kolejno przez jeziora: Stęszewsko-Kołatkowskie, Wronczyńskie Duże i Małe oraz Jerzyńskie. Na całej długości rzeki wytyczony został Szlak Kajakowy „Puszcza Zielonka”, powiększony o fragment rzeki Głównej oraz jezioro Biezdruchowo w Pobiedziskach. Długość szlaku wynosi ok. 11,3 km. Jest możliwy do pokonania w obu kierunkach. Przy niskim stanie wody między jeziorami, przez które przepływa, konieczne są przenoski. Za to Puszcza Zielonka to teren mało zurbanizowany, o ogromnej wartości krajobrazowej i przyrodniczej. Przez cały rok miejsca te odwiedzają turyści poszukujący ciszy i spokoju. Malownicze jeziora, piękne lasy, rezerwaty i pomniki przyrody, a ponadto krajobraz polodowcowy – zachęcają do spędzania czasu na tym szlaku. Można tu zobaczyć liczne gatunki ptaków czy podziwiać budowle bobrów. W  przerwie od wiosłowania warto skorzystać z bezpiecznej kąpieli w czystych wodach wielkopolskich jezior na plaży nad jeziorem Biezdruchowo w Pobiedziskach i  Eko-Plaży w Stęszewku nad Jeziorem Stęszewsko-Kołatkowskim.",
+    "lat"   : 52.5,
+    "long"  : 17.25
+  },
+  {
+    "ld_id" : 3,
+    "name" : "Piława",
+    "dist" : 80,
+    "diff" : "średnia",
+    "image" : "pilawa_foreground",
+    "desc" : "Piława jest prawym dopływem Gwdy, do której uchodzi w miejscowości Dobrzyca. Ma długość ok. 80 km. Uznawana jest za jedną z najbardziej malowniczych rzek Pojezierza Drawskiego. Wypływając z jeziora Komorze, przepływa przez kolejne jeziora: Rakowo, Brody, Strzeszyn, Kocie, Pile, Dołgie i Berlińskie, a kończy swój bieg w Jeziorze Dobrzyckim, poprzez które łączy się z Gwdą. Na swojej drodze przepływa przez siedem rezerwatów, co świadczy o występującej tam bardzo bogatej florze i faunie. W górnym biegu rzeki trasę urozmaicają urokliwe jeziora i przepiękne krajobrazy. Dolny odcinek jest bezleśny z wysokimi brzegami i malowniczą linią brzegową. Nurt urozmaicają liczne bystrza i podwodne głazy. Woda jest krystalicznie czysta, podziwiać można wiele gatunków ryb. Szlak kajakowy rzeki Piławy ma długość ok. 80 km. Z wyjątkiem kilku stałych przeszkód, gdzie konieczne są mało uciążliwe przenoski, całą trasę można przepłynąć swobodnie. Rzeka jest bezpieczna, idealnie nadaje się na spływy dla rodzin z dziećmi. Na początku wyprawy, przepływając przez jeziora, należy zwrócić szczególną uwagę na wiatr, który może wywołać niebezpieczną falę. W środkowym biegu wzdłuż rzeki ciągną się pozostałości umocnień Wału Pomorskiego, zbudowanych przed II wojną światową przez Niemców. Zostały one przełamane po ciężkich walkach przez I Armię Wojska Polskiego w 1945 r. Doskonale rozwinięta sieć agroturystyczna z przystaniami i polami biwakowymi usytuowanymi w bardzo dobrych miejscach pozwala na różnorodne zaplanowanie długości wycieczek kajakowych według własnych możliwości, czasu i uznania.",
+    "lat"   : 53.2667,
+    "long"  : 16.7167
+  },
+  {
+    "ld_id" : 4,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 4,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 4,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 4,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 4,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 4,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 4,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 4,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 4,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 4,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 5,
+    "name" : "Krytynia",
+    "dist" : 102,
+    "diff" : "łatwa",
+    "image" : "krutynia_foreground",
+    "desc" : "Krutynia jest uznawana za jeden z najpiękniejszych szlaków nizinnych Europy. Jest bardzo ciekawy i zróżnicowany, przebiega przez Puszczę Piską, a od J. Mokrego także przez Mazurski Park Krajobrazowy utworzony w grudniu 1977r. MPK położony jest na pograniczu dwóch odmiennych form geomorfologicznych – moreny czołowej i sandrów obejmuje 53 655 ha, a jego strefa ochronna ma 18 608 ha. Z tego na lasy przypada ponad 29 000 ha a na rzeki i jeziora około 17 000 ha. Pozostałość to tereny zabudowane i użytki rolne.  Przyrodnicze bogactwo chronione przez MPK to ponad 60 jezior przekraczających powierzchnię 1 ha, z największym jeziorem w Polsce – Śniardwami, 11 rezerwatów przyrody, około 850 gatunków roślin z rzadko występującymi storczykami, wielosiłem błękitnym, widłakiem wrońcem, rosiczką okrągłolistną, wełnianką delikatną, dzwonecznikiem wonnym czy lilią złotogłową, fauną jak: wilki, rysie, łosie, wydry, norki, bobry i ponad 200 gatunków ptaków, a wśród nich bocian czarny, zimorodek, bąk, bączek, tracz nurogęś, orlik krzykliwy, bielik, rybołów, derkacz, dudek, puchacz.  Długość szlaku Krutynia wynosi 102 km, w tym 60 km to woda stojąca. Rzeka płynie wśród nieskażonej i dzikiej przyrody, zbiera wody z dorzecza o powierzchni 711 km2. Nie jest rzadkością spotkanie na trasie spływu orła bielika lub orła przedniego. Warto zwrócić uwagę na występujące w wodzie gąbki i krasnorosty tworzące na kamieniach \"krwawe plamy\" Hildenbrandtia rivularis porastający kamienie i gąbka słodkowodna Euspongilla lacustris.( krwawe kamienie i gąbka są pod ścisła ochroną!). Brzegi na szlaku porośnięte są wspaniałymi dębami i wysokimi sosnami, z pni których robiono kiedyś maszty żaglowców. Spływy Krutynią z reguły rozpoczynają się w Sorkwitach. Przepływając przez Sorkwity warto obejrzeć kościół ewangelicki zbudowany ok.1470 r. oraz neogotycki pałac rodziny Von Mirbach zbudowany w latach 1850-56.",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 5,
+    "name" : "Rospuda",
+    "dist" : 79,
+    "diff" : "średnia",
+    "image" : "rospuda_foreground",
+    "desc" : "Rospuda wypływa powyżej jeziora Czarnego na wysokości 175 m n.p.m a kończy bieg w jeziorze Rospuda na wysokości ok. 122 m n.pm. Dorzecze rzeki to 900 km2. Długość szlaku Rospuda wynosi 79 km, a jego przepłynięcie zajmuje ok. 5 - 6 dni.   W swym górnym biegu Rospuda przepływa przez wąskie jeziora, a zalesione wzgórza i porozrzucane na brzegach jezior głazy nadają krajobrazowi nieco górski wygląd. Na odcinkach między jeziorami dno rzeki jest kamieniste, zaś sama Rospuda jest wąska i występują liczne mielizny. Dalej rzeka płynie aż do Jeziora Długiego zabagnioną doliną i spływ tym odcinkiem przy niski stanie wody jest prawie niemożliwy. Dla żądnych przygód kajakarzy środkowy bieg rzeki Rospuda będzie niewątpliwie atrakcją. Po wypłynięciu z jeziora Garbaś rzeka przyspiesza, płynie kamiennym bystrzem i przebija się przez pierwszy przełom. Brzegi w wielu miejscach są wysokie i strome, a liczna zakola i powalone drzewa urozmaicają spływ. Aż do miejscowości Raczki Rospuda jest malownicza i dzika. Spotykamy tu piaszczysto-kamieniste bystrza, ostre zakręty o szybkim nurcie.",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 5,
+    "name" : "Czarna Hańcza",
+    "dist" : 107.8,
+    "diff" : "średnia",
+    "image" : "hancza_foreground",
+    "desc" : "Szlak kajakowy Czarnej Hańczy rozpoczyna się na jeziorze Wigry. Do pokonania trasy od jeziora Wigry do jej połączenia z Kanałem Augustowskim ('śluzowanie' płatne) we wsi Rygol potrzeba 3-5 dni. Rzeka płynie tu spokojnym nurtem, a jedyną przeszkodą na odcinkach puszczańskich są powalone przez wiatr lub bobry drzewa.  Trasę spływu Czarną Hańczą można połączyć z Kanałem Augustowskim. Płynąc na zachód do Augustowa mamy wtedy do pokonania około 90 kilometrów. W przypadku trasy w kierunku wschodnim, mamy do pokonania 10 km do śluzy Kurzyniec, gdzie jest przejście graniczne z Białorusią. Część spływu odbywa się na terenie Wigierskiego Parku Narodowego, dlatego niezbędne jest posiadanie karty wstępu.",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 5,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 5,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 5,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 5,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 5,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 5,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  },
+  {
+    "ld_id" : 5,
+    "name" : "abc",
+    "dist" : 23.5,
+    "diff" : "łatwa",
+    "image" : "link",
+    "desc" : "ladny opis trasy",
+    "lat"   : 25.05,
+    "long"  : 44.87
+  }
+]

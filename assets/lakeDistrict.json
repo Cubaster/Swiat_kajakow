@@ -1,0 +1,38 @@
+[
+  {
+    "id" : 0,
+    "name" : "Pojezierze Zachodniopomorskie",
+    "image" : "poj_zachpom_foreground",
+    "desc" : "Pojezierze występujące w północnozachodniej Polsce. Występują tu głownie lasy mieszane, a jeziora uznaje się za eutroficzne, czyli wykazujące się dużą zawartością substancji odżywczych, które obniżają poziom tlenu i hamują procesy mineralizacji. Występuje tu największa w Polsce sieć rzeczna. Klimat tego pojezierza bardzo podlega wpływowi Morza Bałtyckiego. "
+  },
+  {
+    "id" : 1,
+    "name" : "Pojezierze Wschodniopomorskie",
+    "image" : "poj_wschpom_foreground",
+    "desc" : "Jest to jedno z mniejszych pojezierzy znajdujących się na terenie Kaszub. Znajdują się tu tylko dwa mniejsze regiony: Pojezierze Kaszubskie i Pojezierze Starogardzkie. Pojezierze to ma kształt trójkąta. Jest to teren znajdujący się na wzniesieniach, a cały teren jest uznawany za polodowcowy. "
+  },
+  {
+    "id" : 2,
+    "name" : "Pojezierze Południowopomorskie",
+    "image" : "poj_polpom_foreground",
+    "desc" : "Pojezierze to znajduje się na terenach między dolinami Noteci, Brdy oraz Wdy. Występują tu głownie jeziora wytopiskowe. Przeważają to lasy sosnowe, a klimat jest suchy i cieplejszy niż Pojezierza Wschodniopomorskiego i Zachodniopomorskiego. Do tych terenów zaliczają się: Równina Gorzowska, Pojezierze Dobiegniewskie, Równina Drawska, Równina Tucholska, Pojezierze Wałeckie, Równina Wałecka, Pojezierze Szczecineckie, Równina Charzykowska, Dolina Gwdy, Pojezierze Krajeńskie, Bory Tucholskie, Dolina Brdy oraz Wysoczyzna Świecka."
+  },
+  {
+    "id" : 3,
+    "name" : "Pojezierze Wielkopolskie",
+    "image" : "poj_wiel_foreground",
+    "desc" : "Pojezierze znajdujące się w centrum Polski. Jej granice wyznaczają doliny Warty, Noteci oraz Wisłę. Dzieli się one na kilka podregionów: Pojezierze Poznańskie, Pojezierze Gnieźnieńskie, Pojezierze Kujawskie nazywane Poznańskim Przełomem Wart oraz Pojezierze Chodzieskie, Równinę Inowrocławską i Równinę Wrzesińską na południu. Charakterystyczną cechą klimatu Pojezierza Wielkopolskiego są dosyć niskie opady w porównaniu do innych pojezierzy, co znaczy, że przez to występuje tu  bardzo mało buków."
+  },
+  {
+    "id" : 4,
+    "name" : "Pojezierze Chelmińsko-Dobrzyńskie",
+    "image" : "poj_chel_dob_foreground",
+    "desc" : "Znajduje się w północno centralnej Polsce i jest ono dosyć równinne urozmaicone małymi jeziorami. Granicę pojezierza wyznacza dolina rzeki Drwęca oraz Garbu Lubawskiego. Charakterystycznymi jeziorami są tu jezioro Chełmżyńskie oraz jezioro Bachotek. Bardzo rozwinięte jest tu rolnictwo."
+  },
+  {
+    "id" : 5,
+    "name" : "Pojezierze Mazurskie",
+    "image" : "poj_maz_foreground",
+    "desc" : "Pojezierze znajdujące się w północno-wschodniej Polsce. Na jego terenie znajdują się pomniejsze pojezierza, takie jak: Pojezierze Olsztyńskie, Pojezierze Mrągowskie, Kraina Wielkich Jezior Mazurskich, Kraina Węgorapy, Wzgórza Szeskie, Pojezierze Ełckie oraz Równina Mazurska. Jest to największe pojezierze w Polsce, na którym znajdują się największe i najgłębsze jeziora Polski. Największy punkt turystyczny jeśli chodzi o pojezierza. Znajduje się tu aż 114 rezerwatów przyrody oraz Mazurski Park Krajobrazowy."
+  }
+]
