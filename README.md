@@ -20,4 +20,4 @@ Z podmiotami nie została jednak zawarta współpraca - dane zostały użyte w c
 \
 Ikony występujące w aplikacji pochodzą ze strony <https://icons8.com/> \
 \
-Zdjęcia pochodzą ze stron <https://www.flickr.com/> , <https://pl.wikipedia.org/>
+Zdjęcia pochodzą ze stron: <https://www.flickr.com/> , <https://pl.wikipedia.org/>
