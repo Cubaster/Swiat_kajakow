@@ -16,7 +16,7 @@ po naciśnieciu na nazwę trasy użytkownik przenoszony jest do szczegółów tr
 ## Zasoby
 
 Zarówno adresy stron internetowych jak i numery telefonów należą do podmotów fizycznych bądź prawnych powiązanych z danymi prezentowanymi na listach w aplikacji.
-Z podmiotami nie została jednak zawarta współpraca - dane zostały użyte w celach niekomercyjnych. \
+Z podmiotami nie została zawarta współpraca - dane zostały użyte w celach niekomercyjnych. \
 \
 Ikony występujące w aplikacji pochodzą ze strony: <https://icons8.com/> \
 \
