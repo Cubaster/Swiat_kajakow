@@ -71,7 +71,6 @@ class HostFragment : Fragment() {
         Log.d(TAG3, "in created view: viewPager - $viewPager, and state - $savedInstanceState")
         if(savedInstanceState == null) {
             if (arguments != null) {
-                println("${accommodation[0].getRoute()} ${equipment[0].getAddress()}")
                 val adapter = PageAdapter(this, lakeDistrict, routes, accommodation, equipment)
                 viewPager!!.adapter = adapter
             } else {
