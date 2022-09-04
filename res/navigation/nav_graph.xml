@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/maingrap">
+    <navigation android:id="@+id/maingrap"
+        app:startDestination="@id/lakeDistrictItem2">
+        <fragment
+            android:id="@+id/lakeDistrictItem2"
+            android:name="com.example.canoeworld.fragments.LakeDistrictItem"
+            android:label="fragment_main"
+            tools:layout="@layout/fragment_main" >
+            <action
+                android:id="@+id/action_lakeDistrictItem2_to_pageViewHolder2"
+                app:destination="@id/pageViewHolder2" />
+        </fragment>
+        <activity
+            android:id="@+id/pageViewHolder2"
+            android:name="com.example.canoeworld.activities.PageViewHolder"
+            android:label="activity_page_view_holder"
+            tools:layout="@layout/activity_page_view_holder" />
+        <action
+            android:id="@+id/action_global_navigation6"
+            app:destination="@id/holderGraph" />
+    </navigation>
+    <navigation android:id="@+id/routeGraph"
+        app:startDestination="@id/routeActivity2">
+        <activity
+            android:id="@+id/routeActivity2"
+            android:name="com.example.canoeworld.activities.RouteActivity"
+            android:label="activity_route"
+            tools:layout="@layout/activity_route" />
+        <action
+            android:id="@+id/action_global_routesFragment2"
+            app:destination="@id/holderGraph" />
+    </navigation>
+    <navigation android:id="@+id/holderGraph"
+        app:startDestination="@id/routesFragment2">
+        <fragment
+            android:id="@+id/routesFragment2"
+            android:name="com.example.canoeworld.fragments.RoutesFragment"
+            android:label="fragment_routes_list"
+            tools:layout="@layout/fragment_routes_list">
+            <action
+                android:id="@+id/action_routesFragment2_to_hostFragment2"
+                app:destination="@id/hostFragment2" />
+            <action
+                android:id="@+id/action_routesFragment2_to_accommodationFragment2"
+                app:destination="@id/accommodationFragment2" />
+            <action
+                android:id="@+id/action_routesFragment2_to_aboutFragment2"
+                app:destination="@id/aboutFragment2" />
+            <action
+                android:id="@+id/action_routesFragment2_to_routeActivity2"
+                app:destination="@id/routeGraph" />
+        </fragment>
+        <fragment
+            android:id="@+id/accommodationFragment2"
+            android:name="com.example.canoeworld.fragments.AccommodationFragment"
+            android:label="fragment_accommodation_list"
+            tools:layout="@layout/fragment_accommodation_list">
+            <action
+                android:id="@+id/action_accommodationFragment2_to_hostFragment2"
+                app:destination="@id/hostFragment2" />
+            <action
+                android:id="@+id/action_accommodationFragment2_to_equipmentFragment2"
+                app:destination="@id/equipmentFragment2" />
+            <action
+                android:id="@+id/action_accommodationFragment2_to_routesFragment2"
+                app:destination="@id/routesFragment2" />
+        </fragment>
+        <fragment
+            android:id="@+id/aboutFragment2"
+            android:name="com.example.canoeworld.fragments.AboutFragment"
+            android:label="fragment_about"
+            tools:layout="@layout/fragment_about">
+            <action
+                android:id="@+id/action_aboutFragment2_to_hostFragment2"
+                app:destination="@id/hostFragment2" />
+            <action
+                android:id="@+id/action_aboutFragment2_to_routesFragment2"
+                app:destination="@id/routesFragment2" />
+        </fragment>
+        <fragment
+            android:id="@+id/hostFragment2"
+            android:name="com.example.canoeworld.fragments.HostFragment"
+            android:label="fragment_host"
+            tools:layout="@layout/fragment_host">
+            <action
+                android:id="@+id/action_hostFragment2_to_aboutFragment2"
+                app:destination="@id/aboutFragment2" />
+            <action
+                android:id="@+id/action_hostFragment2_to_routesFragment2"
+                app:destination="@id/routesFragment2" />
+            <action
+                android:id="@+id/action_hostFragment2_to_accommodationFragment2"
+                app:destination="@id/accommodationFragment2" />
+            <action
+                android:id="@+id/action_hostFragment2_to_equipmentFragment2"
+                app:destination="@id/equipmentFragment2" />
+        </fragment>
+        <fragment
+            android:id="@+id/equipmentFragment2"
+            android:name="com.example.canoeworld.fragments.EquipmentFragment"
+            android:label="fragment_equipment_list"
+            tools:layout="@layout/fragment_equipment_list">
+            <action
+                android:id="@+id/action_equipmentFragment2_to_hostFragment2"
+                app:destination="@id/hostFragment2" />
+            <action
+                android:id="@+id/action_equipmentFragment2_to_accommodationFragment2"
+                app:destination="@id/accommodationFragment2" />
+        </fragment>
+        <action
+            android:id="@+id/action_global_maingrap"
+            app:destination="@id/maingrap" />
+    </navigation>
+</navigation>
